@@ -21,8 +21,4 @@ The HeuristicEgalitarian project utilizes two heuristic algorithms:
 
 For detailed information and instructions, please refer to the document titled "Egalitarian Stable Matching with ties.pdf" provided in this repository.
 
-## License
-
-This project is licensed under the MIT License. For more information, please refer to the "LICENSE" file.
-
 For additional information, please refer to the "Egalitarian Stable Matching with ties.pdf" document included in this repository.
