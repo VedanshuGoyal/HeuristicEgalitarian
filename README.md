@@ -20,5 +20,3 @@ The HeuristicEgalitarian project utilizes two heuristic algorithms:
 ## Usage
 
 For detailed information and instructions, please refer to the document titled "Egalitarian Stable Matching with ties.pdf" provided in this repository.
-
-For additional information, please refer to the "Egalitarian Stable Matching with ties.pdf" document included in this repository.
